@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_0">0</string>
+    <string name="of">Of</string>
+    <string name="percentage">Percentage</string>
+    <string name="per">%</string>
+    <string name="number">Number</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_percentage">Enter Percentage</string>
+</resources>
